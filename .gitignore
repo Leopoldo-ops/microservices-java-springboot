@@ -1,0 +1,25 @@
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Java
+*.class
+
+# Spring Boot
+*.log
+
+# Eclipse / Spring Tool Suite
+.classpath
+.project
+.settings/
+
+# IntelliJ
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
